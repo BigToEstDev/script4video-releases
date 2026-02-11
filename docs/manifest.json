@@ -1,0 +1,7 @@
+ {
+   "articles": [
+     { "slug": "desktop-app", "title": "Desktop App", "parent": null, "order": 1 },
+     { "slug": "audio-stories", "title": "Audio Stories", "parent": "desktop-app", "order": 1 },
+     { "slug": "tokens", "title": "Tokens", "parent": null, "order": 2 }
+   ]
+ }
