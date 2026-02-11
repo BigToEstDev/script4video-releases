@@ -1,0 +1,4 @@
+ # Exclude everything from auto-generated source archives
+ docs/ export-ignore
+ README.md export-ignore
+ *.md export-ignore
