@@ -1,3 +1,3 @@
-## Desctop App
+## Desktop App
 
 WIP
