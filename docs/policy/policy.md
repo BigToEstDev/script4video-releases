@@ -1,4 +1,4 @@
 
-[ПУБЛИЧНАЯ ОФЕРТА](/policy/oferta-ru)
-[Политика конфиденциальности](/policy/privacy-ru)
-[Политика в отношении обработки персональных данных](/policy/consent-ru)
+[ПУБЛИЧНАЯ ОФЕРТА](/support/policy/oferta-ru)  
+[Политика конфиденциальности](/support/policy/privacy-ru)  
+[Политика в отношении обработки персональных данных](/support/policy/consent-ru)  
