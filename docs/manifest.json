@@ -1,8 +1,10 @@
  {
    "articles": [
-     { "slug": "desktop-app", "title": "Desktop App", "parent": null, "order": 1 },
-     { "slug": "audio-stories", "title": "Audio Stories", "parent": "desktop-app", "order": 1 },
-     { "slug": "tokens", "title": "Tokens", "parent": null, "order": 2 },
-     { "slug": "lorem", "title": "Lorem", "parent": null, "order": 3 }
+     { "slug": "desktop/desktop-app", "title": "Desktop App", "parent": null, "order": 1 },
+     { "slug": "desktop/audio-stories", "title": "Audio Stories", "parent": "desktop/desktop-app", "order": 1 },
+     { "slug": "policy/policy", "title": "Policy", "parent": null, "order": 100 },
+     { "slug": "policy/oferta-ru", "title": "ПУБЛИЧНАЯ ОФЕРТА", "parent": "policy/policy", "order": 1 },
+     { "slug": "policy/privacy-ru", "title": "Политика конфиденциальности", "parent": "policy/policy", "order": 2 },
+     { "slug": "policy/consent-ru", "title": "Политика в отношении обработки персональных данных", "parent": "policy/policy", "order": 3 }
    ]
  }
