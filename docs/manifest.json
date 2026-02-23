@@ -30,7 +30,7 @@
           ]
         },
         {
-          "slug": "policy", "title": "Policy", "articles": [
+          "slug": "policy", "title": "Условия использования", "articles": [
             { "slug": "policy/consent", "title": "Политика в отношении обработки персональных данных" },
             { "slug": "policy/oferta", "title": "ПУБЛИЧНАЯ ОФЕРТА" },
             { "slug": "policy/privacy", "title": "Политика конфиденциальности" }
