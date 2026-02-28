@@ -6,8 +6,12 @@
         {
           "slug": "desktop", "title": "Desktop App", "articles": [
             { "slug": "desktop/first-launch", "title": "First Launch" },
-            { "slug": "desktop/main-screen", "title": "Main Screen" },
-            { "slug": "desktop/audio-stories", "title": "Audio Stories" }
+            { "slug": "desktop/screens", "title": "Screens", "articles": [
+              { "slug": "desktop/screens/main-screen", "title": "Main Screen" },
+              { "slug": "desktop/screens/audio-stories", "title": "Audio Stories" }
+            ] },
+            { "slug": "desktop/settings", "title": "Settings" },
+            { "slug": "desktop/minutes", "title": "Minutes" }            
           ]
         },
         {
@@ -23,7 +27,7 @@
       "locale": "ru",
       "articles": [
         {
-          "slug": "desktop", "title": "Приложение", "articles": [
+          "slug": "desktop", "title": "ПК Приложение", "articles": [
             { "slug": "desktop/first-launch", "title": "Первый запуск" },
             { "slug": "desktop/screens", "title": "Экраны", "articles": [
               { "slug": "desktop/screens/main-screen", "title": "Главный экран" },
@@ -36,7 +40,7 @@
         {
           "slug": "policy", "title": "Условия использования", "articles": [
             { "slug": "policy/consent", "title": "Политика в отношении обработки персональных данных" },
-            { "slug": "policy/oferta", "title": "ПУБЛИЧНАЯ ОФЕРТА" },
+            { "slug": "policy/oferta", "title": "Публичная Оферта" },
             { "slug": "policy/privacy", "title": "Политика конфиденциальности" }
           ]
         }
