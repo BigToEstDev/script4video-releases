@@ -1,5 +1,5 @@
 # **Audio Stories**
-Audio story feed opens from the app's homepage
+Audio Stories screen opens from the app's homepage
 It is designed to create an audio history video format
 Pictures and optional subtitles are shown against the background of the audio track
 
