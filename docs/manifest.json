@@ -23,10 +23,14 @@
       "locale": "ru",
       "articles": [
         {
-          "slug": "desktop", "title": "ПК приложение", "articles": [
+          "slug": "desktop", "title": "Приложение", "articles": [
             { "slug": "desktop/first-launch", "title": "Первый запуск" },
-            { "slug": "desktop/main-screen", "title": "Главный экран" },
-            { "slug": "desktop/audio-stories", "title": "Аудио истории" }
+            { "slug": "desktop/screens", "title": "Экраны", "articles": [
+              { "slug": "desktop/screens/main-screen", "title": "Главный экран" },
+              { "slug": "desktop/screens/audio-stories", "title": "Аудио истории" }
+            ] },
+            { "slug": "desktop/settings", "title": "Настройки" },
+            { "slug": "desktop/minutes", "title": "Минуты" }            
           ]
         },
         {
