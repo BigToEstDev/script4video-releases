@@ -63,7 +63,7 @@ When canceled, only the number of tokens will be written off, how many full vide
 
 ### **Save Settings**
 All settings and parameters are automatically saved in the folder
-.script4video in settings.json under
+.script4video in settings.json under audio stories
 
 ### **Save Video**
 * Video saved in audio title + creation time format
