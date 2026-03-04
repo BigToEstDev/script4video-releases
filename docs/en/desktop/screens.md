@@ -1,4 +1,4 @@
 ### **App Screens**
 
-[Home screen](/desktop/screens/main-screen)  
-[Audio stories](/desktop/screens/audio-stories)  
+[Home screen](/support//desktop/screens/main-screen)  
+[Audio stories](/support//desktop/screens/audio-stories)  
