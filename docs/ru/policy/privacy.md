@@ -1,5 +1,5 @@
-<h1 align="center">Политика конфиденциальности</h1>
-<p align="center">для сервиса script4video (https://script4video.org)</p>
+### Политика конфиденциальности
+для сервиса script4video (https://script4video.org)
 
 ---
 

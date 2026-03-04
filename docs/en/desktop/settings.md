@@ -1,11 +1,9 @@
-# Settings Guide
-
+# Settings
 This guide explains all available settings in script4video application.
 
 ---
 
 ## Settings File Location
-
 All settings are saved automatically and persist between app restarts.
 
 | Platform | Path |
@@ -17,13 +15,10 @@ All settings are saved automatically and persist between app restarts.
 ---
 
 ## Global Settings
-
 These settings apply to the entire application.
 
 ### Language
-
 **Location**: Main Screen > Gear Icon > Language
-
 Select the interface language for the entire application.
 
 | Option | Description |
@@ -32,15 +27,12 @@ Select the interface language for the entire application.
 | Русский | Russian interface |
 
 **Default**: System language (English if system language is not Russian)
-
-> **Note**: Language changes apply immediately to all screens and dialogs.
+**Note**: Language changes apply immediately to all screens and dialogs.
 
 ---
 
 ### Render Device
-
 **Location**: Main Screen > CPU Icon
-
 Select which processor will be used for video rendering.
 
 | Option | Description |
@@ -49,20 +41,16 @@ Select which processor will be used for video rendering.
 | GPU (name varies) | Use graphics card (faster, recommended) |
 
 **Default**: CPU
-
 **How to choose**:
 - If you have a dedicated graphics card (NVIDIA, AMD), select it for faster rendering
 - If you only have an integrated GPU (Intel UHD, AMD Radeon Graphics), CPU might be comparable in speed
 - You can only select one render device at a time
-
-> **Tip**: Open Task Manager during rendering to verify which device is being used.
+**Tip**: Open Task Manager during rendering to verify which device is being used.
 
 ---
 
 ## Account Settings
-
 **Location**: Main Screen > User Icon
-
 View and manage your account information.
 
 | Field | Description |
@@ -72,7 +60,6 @@ View and manage your account information.
 | Minutes | Your available token balance |
 
 ### Unlink Device
-
 Removes this device from your account. After unlinking:
 - You'll need to link the device again to use the app
 - Your minutes remain in your account
@@ -81,15 +68,12 @@ Removes this device from your account. After unlinking:
 ---
 
 ## Audio Stories Settings
-
 Settings specific to the Audio Stories video creation mode.
 
 ### Video Settings
-
 **Location**: Audio Stories Screen > Gear Icon
 
 #### Max Video Count
-
 Maximum number of videos to create in one batch.
 
 | Parameter | Value |
@@ -102,7 +86,6 @@ Maximum number of videos to create in one batch.
 ---
 
 #### Min Audio Duration
-
 Minimum audio file length (in minutes) to be processed.
 
 | Parameter | Value |
@@ -115,7 +98,6 @@ Audio files shorter than this value will be skipped.
 ---
 
 #### Max Audio Duration
-
 Maximum audio file length (in minutes) to be processed.
 
 | Parameter | Value |
@@ -124,13 +106,11 @@ Maximum audio file length (in minutes) to be processed.
 | Default | 60 minutes |
 
 Audio files longer than this value will be skipped.
-
-> **Note**: Min Audio Duration must be less than Max Audio Duration. The app automatically adjusts values if needed.
+**Note**: Min Audio Duration must be less than Max Audio Duration. The app automatically adjusts values if needed.
 
 ---
 
 #### Image Duration
-
 How long each background image is displayed before switching to the next one.
 
 | Parameter | Value |
@@ -143,7 +123,6 @@ How long each background image is displayed before switching to the next one.
 ---
 
 #### Skip Non-16:9 Images
-
 When enabled, images that don't match the 16:9 aspect ratio will not be used.
 
 | Value | Behavior |
@@ -156,13 +135,10 @@ When enabled, images that don't match the 16:9 aspect ratio will not be used.
 ---
 
 ### Subtitle Settings
-
 **Location**: Audio Stories Screen > "S" Button
-
 Customize how subtitles appear in your videos.
 
 #### Font
-
 Select the font family for subtitles.
 
 | Available Fonts |
@@ -181,7 +157,6 @@ Select the font family for subtitles.
 ---
 
 #### Font Size
-
 Size of subtitle text.
 
 | Parameter | Value |
@@ -192,7 +167,6 @@ Size of subtitle text.
 ---
 
 #### Font Weight
-
 Thickness/boldness of subtitle text.
 
 | Parameter | Value |
@@ -211,7 +185,6 @@ Thickness/boldness of subtitle text.
 ---
 
 #### Uppercase
-
 Convert all subtitle text to uppercase letters.
 
 | Value | Behavior |
@@ -224,7 +197,6 @@ Convert all subtitle text to uppercase letters.
 ---
 
 #### Text Color
-
 Color of the subtitle text.
 
 | Parameter | Value |
@@ -235,7 +207,6 @@ Color of the subtitle text.
 ---
 
 #### Border Color
-
 Color of the outline/stroke around subtitle text.
 
 | Parameter | Value |
@@ -246,7 +217,6 @@ Color of the outline/stroke around subtitle text.
 ---
 
 #### Border Width
-
 Thickness of the outline around subtitle text.
 
 | Parameter | Value |
@@ -259,7 +229,6 @@ Set to 0 to disable the border completely.
 ---
 
 #### Border Blur
-
 Apply a soft blur effect to the subtitle border.
 
 | Value | Behavior |
@@ -268,15 +237,12 @@ Apply a soft blur effect to the subtitle border.
 | Disabled | Border has a sharp edge |
 
 **Default**: Disabled
-
-> **Note**: Border Blur is only available when Border Width is greater than 0.
+**Note**: Border Blur is only available when Border Width is greater than 0.
 
 ---
 
 ## Folder Settings
-
 **Location**: Audio Stories Screen > Left Sidebar
-
 These are working folders selected for each session. They are saved and restored automatically.
 
 | Folder | Purpose |
@@ -287,12 +253,11 @@ These are working folders selected for each session. They are saved and restored
 | Save Folder | Destination folder for generated videos |
 | Generated Audio | Folder for processed audio files after generation |
 
-> **Important**: Save Folder must be different from all source folders.
+**Important**: Save Folder must be different from all source folders.
 
 ---
 
 ## Settings Reset
-
 To reset all settings to defaults:
 
 1. Close the application completely
