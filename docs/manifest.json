@@ -5,6 +5,7 @@
       "articles": [
         {
           "slug": "desktop", "title": "Desktop App", "articles": [
+            { "slug": "desktop/installation", "title": "Installation" },
             { "slug": "desktop/first-launch", "title": "First Launch" },
             { "slug": "desktop/screens", "title": "Screens", "articles": [
               { "slug": "desktop/screens/main-screen", "title": "Main Screen" },
@@ -28,6 +29,7 @@
       "articles": [
         {
           "slug": "desktop", "title": "ПК Приложение", "articles": [
+            { "slug": "desktop/installation", "title": "Установка" },
             { "slug": "desktop/first-launch", "title": "Первый запуск" },
             { "slug": "desktop/screens", "title": "Экраны", "articles": [
               { "slug": "desktop/screens/main-screen", "title": "Главный экран" },
