@@ -14,13 +14,6 @@
             { "slug": "desktop/settings", "title": "Settings" },
             { "slug": "desktop/minutes", "title": "Minutes" }            
           ]
-        },
-        {
-          "slug": "policy", "title": "Policy", "articles": [
-            { "slug": "policy/consent", "title": "Consent" },
-            { "slug": "policy/oferta", "title": "Oferta" },
-            { "slug": "policy/privacy", "title": "Privacy" }
-          ]
         }
       ]
     },
@@ -37,13 +30,6 @@
             ] },
             { "slug": "desktop/settings", "title": "Настройки" },
             { "slug": "desktop/minutes", "title": "Минуты" }            
-          ]
-        },
-        {
-          "slug": "policy", "title": "Условия использования", "articles": [
-            { "slug": "policy/consent", "title": "Политика в отношении обработки персональных данных" },
-            { "slug": "policy/oferta", "title": "Публичная Оферта" },
-            { "slug": "policy/privacy", "title": "Политика конфиденциальности" }
           ]
         }
       ]
