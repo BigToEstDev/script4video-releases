@@ -9,7 +9,8 @@
             { "slug": "desktop/first-launch", "title": "First Launch" },
             { "slug": "desktop/screens", "title": "Screens", "articles": [
               { "slug": "desktop/screens/main-screen", "title": "Main Screen" },
-              { "slug": "desktop/screens/audio-stories", "title": "Audio Stories" }
+              { "slug": "desktop/screens/audio-stories", "title": "Audio Stories" },
+              { "slug": "desktop/screens/shorts-split", "title": "Shorts Split" }
             ] },
             { "slug": "desktop/settings", "title": "Settings" },
             { "slug": "desktop/minutes", "title": "Minutes" }            
@@ -26,7 +27,8 @@
             { "slug": "desktop/first-launch", "title": "Первый запуск" },
             { "slug": "desktop/screens", "title": "Экраны", "articles": [
               { "slug": "desktop/screens/main-screen", "title": "Главный экран" },
-              { "slug": "desktop/screens/audio-stories", "title": "Аудио истории" }
+              { "slug": "desktop/screens/audio-stories", "title": "Аудио истории" },
+              { "slug": "desktop/screens/shorts-split", "title": "Shorts Split" }
             ] },
             { "slug": "desktop/settings", "title": "Настройки" },
             { "slug": "desktop/minutes", "title": "Минуты" }            

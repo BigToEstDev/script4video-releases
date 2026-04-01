@@ -36,5 +36,11 @@ To send the status of the operation, it is enough to launch the application (if 
 
 ### **Calculate consumption for each screen**
 **Audio Stories**
-1 minute (token) - in 1 minute of created video
+1 minute (token) for 1 minute of created video
 The calculation is based on the length of the audio track, on the basis of which the video will be created
+If the audio is not divisible by full minute, it will be rounded to the least whole number of minutes
+
+**Shorts Split**
+2 minutes (tokens) for 10 seconds of created short
+The calculation is based on the length of the video track (not reactions videos), on the basis of which the video will be created
+If the audio recording is not divisible by 10 seconds, it will be rounded to the nearest whole number of 10 seconds chunk
