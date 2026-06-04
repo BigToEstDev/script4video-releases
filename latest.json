@@ -1,0 +1,43 @@
+{
+  "version": "v0.0.5",
+  "releasePage": "https://github.com/BigToEstDev/script4video-releases/releases/tag/v0.0.5",
+  "publishedAt": "2026-06-04T18:53:54Z",
+  "assets": [
+    {
+      "name": "script4video_0.0.5_aarch64.dmg",
+      "platform": "macos-arm",
+      "size": 5777894,
+      "downloadUrl": "https://github.com/BigToEstDev/script4video-releases/releases/download/v0.0.5/script4video_0.0.5_aarch64.dmg"
+    },
+    {
+      "name": "script4video_0.0.5_amd64.AppImage",
+      "platform": "linux-appimage",
+      "size": 85760504,
+      "downloadUrl": "https://github.com/BigToEstDev/script4video-releases/releases/download/v0.0.5/script4video_0.0.5_amd64.AppImage"
+    },
+    {
+      "name": "script4video_0.0.5_amd64.deb",
+      "platform": "linux-deb",
+      "size": 6729142,
+      "downloadUrl": "https://github.com/BigToEstDev/script4video-releases/releases/download/v0.0.5/script4video_0.0.5_amd64.deb"
+    },
+    {
+      "name": "script4video_0.0.5_x64-setup.exe",
+      "platform": "windows",
+      "size": 3793155,
+      "downloadUrl": "https://github.com/BigToEstDev/script4video-releases/releases/download/v0.0.5/script4video_0.0.5_x64-setup.exe"
+    },
+    {
+      "name": "script4video_0.0.5_x64.dmg",
+      "platform": "macos-intel",
+      "size": 6054901,
+      "downloadUrl": "https://github.com/BigToEstDev/script4video-releases/releases/download/v0.0.5/script4video_0.0.5_x64.dmg"
+    },
+    {
+      "name": "script4video_0.0.5_x64_en-US.msi",
+      "platform": "windows-msi",
+      "size": 5623808,
+      "downloadUrl": "https://github.com/BigToEstDev/script4video-releases/releases/download/v0.0.5/script4video_0.0.5_x64_en-US.msi"
+    }
+  ]
+}
